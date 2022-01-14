@@ -1,0 +1,6 @@
+cmd
+cd 到目標資料夾下
+python -m venv .venvName
+
+cd 到.venvName\Scripts下 安裝模組
+pip install matplotlib
